@@ -1,16 +1,41 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**Ryanjxy123/Ryanjxy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+📖 Xi'an Jiaotong University, Class of 2024, Undergraduate majoring Software Engineering.
 
-Here are some ideas to get you started:
+💻 Passionate about **MLLM**, **Robotics**, , and **Algorithmic Problem Solving**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ "May you still love this world, even after seeing it clearly."
+
+---
+
+## 🚀 Tech Stack
+**Languages:** C, C++, Java, Python, Astro   
+
+---
+
+## 📂 Projects
+🧩 [**Awesome On-Device Large Language Models**](https://github.com/LumosJiang/Awesome-On-Device-LLMs?tab=readme-ov-file#%EF%B8%8F-edge-cloud-collaboration)
+
+---
+
+---
+
+## 📫 Social
+- **✉️ Email**: ryanjxy998244353@gmail.com
+- **💼 Zhihu**: [@Ryanjxy](https://www.zhihu.com/people/73-41-11-74-21)
+
+---
+
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryanjxy123&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanjxy123&layout=compact&theme=tokyonight)
+
+
+</div>
