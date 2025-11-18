@@ -7,6 +7,8 @@ Hi there 👋
 
 ✨ "May you still love this world, even after seeing it clearly."
 
+🌐 Welcome to my personal blog — [Visit Here](https://ryanjxy123.github.io/)
+
 ---
 
 ## 🚀 Tech Stack
