@@ -21,8 +21,6 @@ Hi there 👋
 
 ---
 
----
-
 ## 📫 Social
 - **✉️ Email**: ryanjxy998244353@gmail.com
 - **💼 Zhihu**: [@Ryanjxy](https://www.zhihu.com/people/73-41-11-74-21)
