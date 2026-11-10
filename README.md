@@ -8,7 +8,7 @@ Hi there 👋
 
 ✨ "May you still love this world, even after seeing it clearly."
 
-🌐 Welcome to my personal blog — [Visit Here](https://ryanjxy123.github.io/)
+🌐 Welcome to my personal blog — [Visit Here]([https://](https://www.ryanjxy.cn/))
 
 ---
 
@@ -38,15 +38,4 @@ Hi there 👋
 ---
 
 
-<div>
-    <h3>
-        Github Stats
-    </h3>
-</div>
-<div>
-    <img src="https://stats.amto.cc/api?username=Ryanjxy123&show_icons=true&hide_border=true&theme=buefy">
-</div>
 
-<br />
-
-[![Ryanjxy123's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryanjxy123&theme=high-contrast)](https://github.com/Ryanjxy123/github-readme-activity-graph)
